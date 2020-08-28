@@ -23,7 +23,7 @@ To setup the app for development on your local machine, please follow the instru
 1. Clone the repo to your machine
 
 ```bash
-git clone https://github.com/sabesansathananthan/covid-19-tracker.git
+git clone https://github.com/tanzeelsaab/covid-tracker.git
 ```
 
 2. Install necessary packages
@@ -40,12 +40,3 @@ npm start
 
 4. Visit http://localhost:3000
 
----
-
-## Data Source
-
-[Mathroid](https://covid19.mathdro.id/api/)
-
-## License 📄
-
-This project is licensed under the MIT License
